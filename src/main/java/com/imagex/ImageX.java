@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.Random;
 import javax.imageio.ImageIO;
 
-public class Main {
+public class ImageX {
     public static void main(String[] args) throws IOException {
 
     }
